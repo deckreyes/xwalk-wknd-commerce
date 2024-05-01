@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-wknd-commerce/:/",
-    "/content/xsc-wknd-commerce/metadata.json:/metadata.json",
-    "/content/xsc-wknd-commerce/redirects.json:/redirects.json"
+    "/content/xwalk-wknd-commerce/:/",
+    "/content/xwalk-wknd-commerce/metadata.json:/metadata.json",
+    "/content/xwalk-wknd-commerce/redirects.json:/redirects.json"
   ]
 }
