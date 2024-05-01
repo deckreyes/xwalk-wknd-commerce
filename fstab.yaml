@@ -1,6 +1,6 @@
 mountpoints:
   #/: https://drive.google.com/drive/folders/18doVql6MQMihnYBkDCq0pMCTQzHrsf40
-  url: "https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/AdobeDevXSC/xsc-wknd-commerce/main"
+  url: "https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xsc-wknd-commerce/main"
   type: "markup"
   suffix: ".html"
 
