@@ -1,11 +1,5 @@
 mountpoints:
   #/: https://drive.google.com/drive/folders/18doVql6MQMihnYBkDCq0pMCTQzHrsf40
-  url: "https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xsc-wknd-commerce/main"
+  url: "https://author-p131639-e1282833.adobeaemcloud.com/bin/franklin.delivery/deckreyes/xwalk-wknd-commerce/main"
   type: "markup"
   suffix: ".html"
-
-folders:
-  /products/: /products/default
-  /adventures/details/: /adventures/details/default
-  /experiments/experiment-adventures-pdp/: /experiments/experiment-adventures-pdp/adventure-pdp-v2
-  /experiments/experiment-pdp/: /experiments/experiment-pdp/pdp-v2
